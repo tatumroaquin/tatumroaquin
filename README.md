@@ -6,9 +6,11 @@ Greetings, welcome to my little home on GitHub where I perform many kinds of exp
 <div align="center">
    <img alt="arch" src="https://img.shields.io/badge/-Arch%20Linux-black?logo=arch%20linux&logoColor=limegreen">
    <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=limegreen">
+   <img alt="c++" src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&logoColor=limegreen">
    <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=limegreen">
    <img alt="jquery" src="https://img.shields.io/badge/-jQuery-black?logo=jquery&logoColor=limegreen">
    <img alt="jsp" src="https://img.shields.io/badge/-JSP-black?logo=java&logoColor=limegreen">
+   <img alt="latex" src="https://img.shields.io/badge/-LaTeX-black?logo=latex&logoColor=limegreen">
    <img alt="mysql" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=limegreen">
    <img alt="nginx" src="https://img.shields.io/badge/-NGINX-black?logo=nginx&logoColor=limegreen">
    <img alt="php" src="https://img.shields.io/badge/-PHP-black?logo=php&logoColor=limegreen">
