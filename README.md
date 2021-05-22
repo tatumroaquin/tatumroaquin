@@ -4,14 +4,14 @@ Greetings, welcome to my little home on GitHub where I perform many kinds of exp
 <h4 align="center">technologies</h4>
 
 <div align="center">
-   <img alt="arch" src="https://img.shields.io/badge/-Arch%20Linux-black?logo=arch%20linux&logoColor=limegreen">
-   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=limegreen">
+   <img alt="arch-linux" src="https://img.shields.io/badge/-Arch%20Linux-black?logo=arch%20linux">
+   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap">
    <img alt="c++" src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&logoColor=limegreen">
-   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=limegreen">
-   <img alt="jquery" src="https://img.shields.io/badge/-jQuery-black?logo=jquery&logoColor=limegreen">
-   <img alt="jsp" src="https://img.shields.io/badge/-JSP-black?logo=java&logoColor=limegreen">
-   <img alt="latex" src="https://img.shields.io/badge/-LaTeX-black?logo=latex&logoColor=limegreen">
-   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=limegreen">
+   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript">
+   <img alt="jquery" src="https://img.shields.io/badge/-jQuery-black?logo=jquery&logoColor=blue">
+   <img alt="jsp" src="https://img.shields.io/badge/-JSP-black?logo=java&logoColor=red">
+   <img alt="latex" src="https://img.shields.io/badge/-LaTeX-black?logo=latex&logoColor=cyan">
+   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-black?logo=mysql">
    <img alt="nginx" src="https://img.shields.io/badge/-NGINX-black?logo=nginx&logoColor=limegreen">
-   <img alt="php" src="https://img.shields.io/badge/-PHP-black?logo=php&logoColor=limegreen">
+   <img alt="php" src="https://img.shields.io/badge/-PHP-black?logo=php">
 </div>
