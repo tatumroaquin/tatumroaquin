@@ -1,5 +1,5 @@
 <h1 align="center">6920 616d 206f 726d 7578</h1>
-Greetings, welcome to my little home on GitHub where I perform many kinds of experiments. I often mess around with cryptography, and little bits of HTML5 Canvas animations. I enjoy internet mysteries and playing ARGs (Alternate Reality Games) if they are simple enough for me to solve. My life revolves around hidden messages, I like secrets and love to uncover them.
+Greetings, welcome to my little home on GitHub, in here you will find random programs that may benefit you. My projects mostly revolve around cryptography, full-stack development, and interesting things I find on the interwebs... Enjoy your stay.
 
 <h4 align="center">technologies</h4>
 
