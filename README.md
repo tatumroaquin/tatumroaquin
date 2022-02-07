@@ -1,8 +1,4 @@
 <h1 align="center">6920 616d 206f 726d 7578</h1>
-Greetings, welcome to my little home on GitHub, in here you will find random programs that may benefit you. My projects mostly revolve around cryptography, full-stack development, and interesting things I find on the interwebs... Enjoy your stay.
-
-<h4 align="center">technologies</h4>
-
 <div align="center">
    <img alt="arch-linux" src="https://img.shields.io/badge/-Arch%20Linux-black?logo=arch%20linux">
    <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap">
