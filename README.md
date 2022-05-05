@@ -1,4 +1,5 @@
 <h1 align="center">6920 616d 206f 726d 7578</h1>
+<div align="center">computers are reasonable, humans less likely.</div>
 <div align="center">
    <img alt="arch-linux" src="https://img.shields.io/badge/-Arch%20Linux-black?logo=arch%20linux">
    <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap">
