@@ -1,6 +1,7 @@
 Hi 👋 My name is Tatum Roaquin
 ==============================
 
-I am a passionate individual who loves to use different technologies and devices. I like to experiment with Type 1 Hypervisors such as Proxmox to build virtualised servers as a hobby.
+I experiment with Type 1 Hypervisors such as Proxmox to build virtualised servers as a hobby. I enjoy interfacing with different types of multipurpose technologies. Allowing me to channel my curiosity through versatile usecases, and discover new interests.
+
 * 🌍  I'm based in Sydney
 * 🧠  I'm currently learning Blockchains
