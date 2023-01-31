@@ -4,7 +4,10 @@ Hi 👋 My name is Tatum Roaquin
 I experiment with Type 1 Hypervisors such as Proxmox to build virtualised servers as a hobby. I enjoy interfacing with different types of multipurpose technologies. Allowing me to channel my curiosity through versatile usecases, and discover new interests.
 
 *   🌍  I'm based in Sydney
-*   🧠  I'm learning Blockchains and practicing TypeScript### Skills 
+*   🧠  I'm learning Blockchains and practicing TypeScript
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
