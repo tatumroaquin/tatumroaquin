@@ -27,6 +27,14 @@ I experiment with Type 1 Hypervisors such as Proxmox to build virtualised server
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
+### Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tatumroaquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.frontendmentor.io/profile/tatumroaquin" target="_blank" rel="noreferrer"><img src="https://www.frontendmentor.io/static/favicon/apple-touch-icon.png" width="32" height="32" /></a>
+</p>
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/tatumroaquin"><img src="https://github-readme-stats.vercel.app/api?username=tatumroaquin&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="tatumroaquin's GitHub stats" /></a>
