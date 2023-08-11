@@ -33,4 +33,6 @@ I experiment with Type 1 Hypervisors such as Proxmox to build virtualised server
 <a href="https://www.linkedin.com/in/tatumroaquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.frontendmentor.io/profile/tatumroaquin" target="_blank" rel="noreferrer"><img src="https://www.frontendmentor.io/static/favicon/apple-touch-icon.png" width="32" height="32" />
 </a>
+<a href="https://leetcode.com/tatumroaquin" target="_blank" rel="noreferrer"><img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="32" height="32" />
+</a>
 </p>
