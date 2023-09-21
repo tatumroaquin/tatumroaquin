@@ -4,8 +4,8 @@ Hi 👋 My name is Tatum Roaquin
 I experiment with Type 1 Hypervisors such as Proxmox to build virtualised servers as a hobby. I enjoy interfacing with different types of multipurpose technologies. Allowing me to channel my curiosity through versatile usecases, and discover new interests.
 
 * 🌍 I'm based in Sydney
-* 🚀 I'm currently working on [Blackjade](http://github.com/tatumroaquin/blackjade)
-* 🧠 I'm learning Blockchains and practicing TypeScript
+* 🚀 I'm currently working on [My blog](http://github.com/tatumroaquin/mern-blog)
+* 🧠 I'm learning React.js, AWS (EC2 and SES), Docker, and TypeScript
 
 ### Skills
 
