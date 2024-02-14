@@ -5,7 +5,7 @@ I experiment with Type 1 Hypervisors such as Proxmox to build virtualised server
 
 * 🌍 I'm based in Sydney
 * 🚀 I'm currently working on [My blog](http://github.com/tatumroaquin/mern-blog)
-* 🧠 I'm learning React.js, AWS (EC2 and SES), Docker, and TypeScript
+* 🧠 I'm learning AWS (EC2 and SES), Docker, ASP.NET, C#, and TypeScript
 
 ### Skills
 
