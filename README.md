@@ -2,7 +2,7 @@ Hi 👋 My name is Tatum Roaquin
 ==============================
 
 * 🌍 I'm based in Sydney
-* 🧠 I'm learning AWS, Docker, ASP.NET, C#, and TypeScript
+* 🧠 I'm learning DevOps, Malware Development, and C/C++
 
 ### Skills
 
