@@ -1,8 +1,6 @@
-Hi 👋 My name is Tatum Roaquin
+Tatum Roaquin
 ==============================
-
-* 🌍 I'm based in Sydney
-* 🧠 I'm learning DevOps, Malware Development, C/C++, and C#
+* 🧠 Exploring DevOps, Cybersec, Networking, C#/ASP.NET, and Scapy.
 
 ### Skills
 
